@@ -1,0 +1,5 @@
+127.0.0.1	genuine-software.autodesk.com
+127.0.0.1	genuine-software1.autodesk.com
+127.0.0.1	genuine-software2.autodesk.com
+127.0.0.1	ase.autodesk.com
+127.0.0.1	ase-cdn-stg.autodesk.com
