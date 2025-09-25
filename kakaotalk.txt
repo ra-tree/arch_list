@@ -1,0 +1,12 @@
+#카카오톡
+
+talk-pilsner.kakao.com
+ik.kakaocdn.net
+#위 두개가 메인피드 차단
+
+play.kakao.com
+shorformstats.kakao.com
+#숏폼 탭 차단
+
+shopper.kakao.com
+#쇼핑 탭 차단
