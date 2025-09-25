@@ -1,5 +1,3 @@
-#카카오톡
-
 talk-pilsner.kakao.com
 ik.kakaocdn.net
 #위 두개가 메인피드 차단
